@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ocp.xyz"
+base_url = "https://www.ocp.xyz"
 title = "Outside Context Labs"
 compile_sass = true
 build_search_index = false
